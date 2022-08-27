@@ -19,9 +19,15 @@ Waad awajneh
 Rama Jaradat
 Ahmad Zahran
 Ibrahim Taqieddin
+/////////////////////////////////////////////////////////////////////////
+
+1- live link : https://ibrahim-taqieddin.github.io/Task-Organizer/#
 
 
-live link : https://ibrahim-taqieddin.github.io/Task-Organizer/#
-organization github link : https://github.com/Task-Organizer/Main-Task-Organizer
-Trello URL : https://trello.com/b/YStX5fIr/project
-wireframe and mockup pdf : [task-organizae.pdf](https://github.com/ibrahim-taqieddin/Task-Organizer/files/9438601/task-organizae.pdf)
+2- organization github link : https://github.com/Task-Organizer/Main-Task-Organizer
+
+
+3- Trello URL : https://trello.com/b/YStX5fIr/project
+
+
+4- wireframe and mockup pdf : [task-organizae.pdf](https://github.com/ibrahim-taqieddin/Task-Organizer/files/9438601/task-organizae.pdf)
